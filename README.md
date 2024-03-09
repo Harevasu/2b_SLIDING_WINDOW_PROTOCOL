@@ -40,7 +40,9 @@ while True:
  s.send("acknowledgement recived from the server".encode())
 ```
 ## OUPUT
+### CLIENT:
 ![Screenshot 2024-03-09 113420](https://github.com/Harevasu/2b_SLIDING_WINDOW_PROTOCOL/assets/147985044/d7c652b7-676b-4294-8808-c53cec509f26)
+### SERVER:
 ![Screenshot 2024-03-09 113443](https://github.com/Harevasu/2b_SLIDING_WINDOW_PROTOCOL/assets/147985044/ae5ba94f-6563-4e78-af04-c22915fa354a)
 
 ## RESULT
